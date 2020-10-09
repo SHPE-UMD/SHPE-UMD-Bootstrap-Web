@@ -13,3 +13,7 @@ body {
 
 @font-face { font-family: "shpefont"; src: url('fonts/Univers-LT-Std-55-Roman_46338.ttf'); }
 @font-face { font-family: "shpefont"; font-weight: lighter; src: url('fonts/Univers-LT-Std-45-Light_46331.ttf'); }
+
+.bg-dark {
+  background-color: #001F5B !important;
+}
