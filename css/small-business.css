@@ -7,9 +7,9 @@ body {
   padding-top: 56px;
 }
 
-@font-face { font-family: shpefontcondensed; font-weight: lighter; src: url('fonts/Univers-LT-Std-47-Light-Condensed_46333.ttf'); }
-@font-face { font-family: shpefontcondensed; font-weight: bold; src: url('fonts/Univers-LT-Std-67-Bold-Condensed_46347.ttf'); }
-@font-face { font-family: shpefontcondensed; src: url('fonts/Univers-LT-Std-57-Condensed_46340.ttf'); }
+@font-face { font-family: "shpefontcondensed"; font-weight: lighter; src: url('fonts/Univers-LT-Std-47-Light-Condensed_46333.ttf'); }
+@font-face { font-family: "shpefontcondensed"; font-weight: bold; src: url('fonts/Univers-LT-Std-67-Bold-Condensed_46347.ttf'); }
+@font-face { font-family: "shpefontcondensed"; src: url('fonts/Univers-LT-Std-57-Condensed_46340.ttf'); }
 
-@font-face { font-family: shpefont; src: url('fonts/Univers-LT-Std-55-Roman_46338.ttf'); }
-@font-face { font-family: shpefont; font-weight: lighter; src: url('fonts/Univers-LT-Std-45-Light_46331.ttf'); }
+@font-face { font-family: "shpefont"; src: url('fonts/Univers-LT-Std-55-Roman_46338.ttf'); }
+@font-face { font-family: "shpefont"; font-weight: lighter; src: url('fonts/Univers-LT-Std-45-Light_46331.ttf'); }
