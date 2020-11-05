@@ -46,7 +46,7 @@ h4 {
 
 /* slides */
 * {box-sizing: border-box}
-body {font-family: Verdana, sans-serif; margin:0}
+/* body {font-family: Verdana, sans-serif; margin:0} */
 .mySlides {display: none}
 img {vertical-align: middle;}
 
@@ -116,7 +116,7 @@ img {vertical-align: middle;}
   transition: background-color 0.6s ease;
 }
 
-.active, .dot:hover {
+.active-dot .dot:hover {
   background-color: #717171;
 }
 
