@@ -65,19 +65,19 @@
 
           <div class="mySlides fade">
             <div class="numbertext">1 / 3</div>
-            <img class="sldfit img-fluid rounded mb-4 mb-lg-0" src="sldshw/shpe-convention.jpg" style="width:100%">
+            <img class="img-fluid rounded mb-4 mb-lg-0" src="sldshw/shpe-convention.jpg" style="width:100%">
             <div class="text">Caption Text</div>
           </div>
           
           <div class="mySlides fade">
             <div class="numbertext">2 / 3</div>
-            <img class="sldfit img-fluid rounded mb-4 mb-lg-0" src="sldshw/basketball-game.jpg" style="width:100%">
+            <img class="img-fluid rounded mb-4 mb-lg-0" src="sldshw/basketball-game.jpg" style="width:100%">
             <div class="text">Caption Two</div>
           </div>
           
           <div class="mySlides fade">
             <div class="numbertext">3 / 3</div>
-            <img class="sldfit img-fluid rounded mb-4 mb-lg-0" src="sldshw/volunteering.jpg" style="width:100%">
+            <img class="img-fluid rounded mb-4 mb-lg-0" src="sldshw/volunteering.jpg" style="width:100%">
             <div class="text">Caption Three</div>
           </div>
           
@@ -188,10 +188,10 @@
           slides[i].style.display = "none";  
       }
       for (i = 0; i < dots.length; i++) {
-          dots[i].className = dots[i].className.replace(" activedot", "");
+          dots[i].className = dots[i].className.replace(" active-dot", "");
       }
       slides[slideIndex-1].style.display = "block";  
-      dots[slideIndex-1].className += " activedot";
+      dots[slideIndex-1].className += " active-dot";
     }
     </script>
 
