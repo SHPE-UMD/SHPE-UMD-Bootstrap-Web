@@ -20,8 +20,8 @@ body {
 
 .sldfit {
   float: center;
-  width:  1920px;
   height: 1005px;
+  width:  1920px;
   background-size: cover;
 }
 
