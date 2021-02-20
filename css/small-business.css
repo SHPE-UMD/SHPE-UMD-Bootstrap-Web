@@ -185,7 +185,7 @@ img {vertical-align: middle;}
   color: white;
 }
 
-.google {
+.slack {
   background: #dd4b39;
   color: white;
 }
@@ -195,7 +195,12 @@ img {vertical-align: middle;}
   color: white;
 }
 
-.youtube {
+.instagram {
+  background: #bb0000;
+  color: white;
+}
+
+.groupme {
   background: #bb0000;
   color: white;
 }
