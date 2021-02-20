@@ -155,8 +155,8 @@ img {vertical-align: middle;}
 .icon-bar {
   position: fixed;
   top: 30%;
-  height: 60px;
-  width: 80px;
+  height: 120px;
+  width: 140px;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
