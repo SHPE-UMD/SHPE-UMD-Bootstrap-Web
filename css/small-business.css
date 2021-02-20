@@ -156,7 +156,7 @@ img {vertical-align: middle;}
   position: fixed;
   top: 50%;
   height: 40px;
-  width: 40px;
+  width: 80px;
   -webkit-transform: translateY(-50%);
   -ms-transform: translateY(-50%);
   transform: translateY(-50%);
